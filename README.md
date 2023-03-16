@@ -3,9 +3,9 @@
 ### Hi there, I'm Debid <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/hi.gif" width="30px" />
 
 :computer: I'm a Software Engineer  
+:briefcase: Currently working at [Cotiviti Nepal](https://www.cotiviti.com.np/) 
 :zap: Focused on building awesome products  
-:seedling: Currently Learning: AWS, GraphQL  
-:wrench: Current Tools: Typescript, React, Node.js, Docker  
+:wrench: Current Tools: Java, Spring Boot, Typescript, React, Node.js, Docker  
 
 ### Find me on:
 
