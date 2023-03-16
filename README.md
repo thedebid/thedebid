@@ -3,7 +3,7 @@
 ### Hi there, I'm Debid <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/hi.gif" width="30px" />
 
 :computer: I'm a Software Engineer  
-:briefcase: Currently working at [Cotiviti Nepal](https://www.cotiviti.com.np/){:target="_blank"} 
+:briefcase: Currently working at [Cotiviti Nepal](https://www.cotiviti.com.np/)  
 :zap: Focused on building awesome products  
 :wrench: Current Tools: Java, Spring Boot, Typescript, React, Node.js, Docker  
 
